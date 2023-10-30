@@ -1,3 +1,3 @@
-> step 1: node
+> step 1:  node
 
-> step 2 :require('crypto').randomBytes(64).toString('hex')
+> step 2:  require('crypto').randomBytes(64).toString('hex')
